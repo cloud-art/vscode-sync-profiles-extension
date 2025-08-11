@@ -1,0 +1,113 @@
+{
+  "telemetry.sqmId": "",
+  "telemetry.machineId": "d3357f6f1b3f85f33ff229433c48821bf6e796c9ae6188860e368c5212a7ede7",
+  "telemetry.devDeviceId": "60e1735d-9c4c-4f99-be7b-19c0ad1ebe04",
+  "backupWorkspaces": {
+    "workspaces": [],
+    "folders": [
+      {
+        "folderUri": "file:///home/artyushenko/Projects/water_inspection"
+      },
+      {
+        "folderUri": "file:///home/artyushenko/Projects/smart_lighting_mobile_app"
+      },
+      {
+        "folderUri": "file:///home/artyushenko/Projects/sync-profiles"
+      }
+    ],
+    "emptyWindows": [
+      {
+        "backupFolder": "1754901868125"
+      }
+    ]
+  },
+  "windowControlHeight": 35,
+  "profileAssociations": {
+    "workspaces": {
+      "file:///home/artyushenko/Projects/water_inspection": "__default__profile__",
+      "file:///home/artyushenko/Projects/sync-profiles": "-54af406d",
+      "file:///home/artyushenko/Projects/smart_lighting_mobile_app": "-2efe2f88"
+    },
+    "emptyWindows": {
+      "1754901868125": "-54af406d"
+    }
+  },
+  "theme": "vs-dark",
+  "themeBackground": "#1f1f1f",
+  "windowSplash": {
+    "zoomLevel": 0,
+    "baseTheme": "vs-dark",
+    "colorInfo": {
+      "foreground": "#cccccc",
+      "background": "#1f1f1f",
+      "editorBackground": "#1f1f1f",
+      "titleBarBackground": "#181818",
+      "titleBarBorder": "#2b2b2b",
+      "activityBarBackground": "#181818",
+      "activityBarBorder": "#2b2b2b",
+      "sideBarBackground": "#181818",
+      "sideBarBorder": "#2b2b2b",
+      "statusBarBackground": "#181818",
+      "statusBarBorder": "#2b2b2b",
+      "statusBarNoFolderBackground": "#1f1f1f"
+    },
+    "layoutInfo": {
+      "sideBarSide": "left",
+      "editorPartMinWidth": 220,
+      "titleBarHeight": 35,
+      "activityBarWidth": 48,
+      "sideBarWidth": 300,
+      "auxiliaryBarWidth": 352,
+      "statusBarHeight": 22,
+      "windowBorder": false
+    }
+  },
+  "windowSplashWorkspaceOverride": {
+    "layoutInfo": {
+      "sideBarWidth": 300,
+      "auxiliaryBarWidth": 352,
+      "workspaces": {
+        "dfa46542ef8859cd4b48dd51ca035fa0": {
+          "sideBarVisible": true,
+          "auxiliaryBarVisible": true
+        },
+        "04012891f0fea1433379faaf366f8d55": {
+          "sideBarVisible": true,
+          "auxiliaryBarVisible": true
+        },
+        "7bb03259495b705acf9a63b738d15b9e": {
+          "sideBarVisible": true,
+          "auxiliaryBarVisible": true
+        }
+      }
+    }
+  },
+  "windowsState": {
+    "lastActiveWindow": {
+      "folder": "file:///home/artyushenko/Projects/sync-profiles",
+      "backupPath": "/home/artyushenko/.config/Code/Backups/a4b2a8d0f75758db4d7da3c551f41138",
+      "uiState": {
+        "mode": 0,
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1036
+      }
+    },
+    "openedWindows": []
+  },
+  "userDataProfiles": [
+    {
+      "location": "643c4923",
+      "name": "frontend"
+    },
+    {
+      "location": "-54af406d",
+      "name": "react"
+    },
+    {
+      "location": "-2efe2f88",
+      "name": "smartlighting-mobile"
+    }
+  ]
+}
